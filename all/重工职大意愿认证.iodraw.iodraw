@@ -16,14 +16,8 @@
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-6" value="校验失败" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="270" y="645" width="247" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-8" value="返回错误: 用户标识缺失" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="449" y="872" width="231" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-9" value="获取/验证用户信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="729" y="872" width="196" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-10" value="" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="752" y="970" width="151" height="151" as="geometry" />
+          <mxGeometry x="790" y="780" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-11" value="返回错误: 用户不存在/异常" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="581" y="1231" width="255" height="49" as="geometry" />
@@ -101,25 +95,10 @@
             <mxPoint x="696" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-32" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="wdumbZSo7ZD_Ne3u_CQ0-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="564" y="835" />
-            </Array>
-            <mxPoint x="638.666666666667" y="741.6666666666667" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-33" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="wdumbZSo7ZD_Ne3u_CQ0-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="828" y="835" />
-            </Array>
-            <mxPoint x="753.333333333333" y="741.6666666666667" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="wdumbZSo7ZD_Ne3u_CQ0-9" target="wdumbZSo7ZD_Ne3u_CQ0-10" edge="1">
+        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" target="wdumbZSo7ZD_Ne3u_CQ0-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="826.9999999999995" y="920.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-35" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="wdumbZSo7ZD_Ne3u_CQ0-10" target="wdumbZSo7ZD_Ne3u_CQ0-11" edge="1">
