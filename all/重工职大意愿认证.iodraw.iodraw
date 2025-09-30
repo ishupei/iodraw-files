@@ -10,8 +10,8 @@
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-4" value="接收请求参数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="467" y="219" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-5" value="租户代码有效?&#xa;有userCode或customAccountNo?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="469.5" y="300" width="151" height="151" as="geometry" />
+        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-5" value="租户代码有效?&#xa;有userCode或customAccountNo?&#xa;用户状态正常?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="469.5" y="300" width="220.5" height="151" as="geometry" />
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-6" value="返回错误: 租户代码不存在" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="270" y="645" width="247" height="49" as="geometry" />
