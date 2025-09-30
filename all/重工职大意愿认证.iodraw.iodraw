@@ -10,14 +10,8 @@
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-4" value="接收请求参数" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="751" y="921" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-5" value="" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="469.5" y="300" width="220.5" height="151" as="geometry" />
-        </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-6" value="校验失败" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="270" y="645" width="247" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-10" value="租户代码有效?&#xa;有userCode或customAccountNo?&#xa;用户状态正常?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="752" y="970" width="151" height="151" as="geometry" />
+          <mxGeometry x="752" y="970" width="198" height="151" as="geometry" />
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-11" value="返回错误: 用户不存在/异常" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="581" y="1231" width="255" height="49" as="geometry" />
@@ -73,26 +67,6 @@
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="wdumbZSo7ZD_Ne3u_CQ0-3" target="wdumbZSo7ZD_Ne3u_CQ0-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="wdumbZSo7ZD_Ne3u_CQ0-4" target="wdumbZSo7ZD_Ne3u_CQ0-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-30" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="wdumbZSo7ZD_Ne3u_CQ0-5" target="wdumbZSo7ZD_Ne3u_CQ0-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="393" y="504" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-31" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" parent="1" source="wdumbZSo7ZD_Ne3u_CQ0-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="696" y="504" />
-            </Array>
-            <mxPoint x="696" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" target="wdumbZSo7ZD_Ne3u_CQ0-10" edge="1">
