@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-1" value="查询用户是否需要意愿认证&lt;div&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;/manage/custom/willing/result&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="10" width="340" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-3" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="499" y="120" width="92" height="49" as="geometry" />
         </mxCell>
