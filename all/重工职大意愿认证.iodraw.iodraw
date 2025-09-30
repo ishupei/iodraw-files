@@ -17,7 +17,7 @@
           <mxGeometry x="270" y="645" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-10" value="" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="790" y="780" width="151" height="151" as="geometry" />
+          <mxGeometry x="752" y="970" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-11" value="返回错误: 用户不存在/异常" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="581" y="1231" width="255" height="49" as="geometry" />
