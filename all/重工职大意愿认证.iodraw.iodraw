@@ -11,13 +11,13 @@
           <mxGeometry x="760" y="890" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-10" value="租户代码有效?&#xa;有userCode或customAccountNo?&#xa;用户状态正常?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="752" y="970" width="198" height="151" as="geometry" />
+          <mxGeometry x="739" y="970" width="198" height="151" as="geometry" />
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-11" value="返回错误: 用户不存在/异常" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="581" y="1231" width="255" height="49" as="geometry" />
+          <mxGeometry x="581" y="1160" width="255" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-12" value="有applyId?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="886" y="1194" width="123" height="123" as="geometry" />
+          <mxGeometry x="893" y="1170" width="123" height="123" as="geometry" />
         </mxCell>
         <mxCell id="wdumbZSo7ZD_Ne3u_CQ0-13" value="通过applyId查询认证记录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="572" y="1389" width="240" height="49" as="geometry" />
